@@ -1,4 +1,3 @@
 # Subreddit Classification
 
-Classifying reddit posts to its respective subreddit using different machine learning models. Comparing the performance of these models and finding the best. 
-Analysing why there were few pitfalls in some performances and why not in others.
+The notebook classifies reddit posts to its respective subreddit using different machine learning models and Compares the performance of these models. And finds the best model. Further different models are analysed. A hypothesis is made, as to why certain models performed better than others
