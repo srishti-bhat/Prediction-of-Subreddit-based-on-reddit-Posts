@@ -5,11 +5,11 @@ The notebook classifies reddit posts to its respective subreddit using different
 This was done as a part of coursework. 
 
 Experiments are conducted using the following combinations of classifier models and feature representations and evaluation of each model is done on the test set:
-●	Dummy Classifier with strategy="most_frequent"
-●	Dummy Classifier with strategy="stratified"
-●	LogisticRegression with One-hot vectorization 
-●	LogisticRegression with TF-IDF vectorization (default settings)
-●	SVC Classifier with  One-hot vectorization (SVM with RBF kernel, default settings))
+1.	Dummy Classifier with strategy="most_frequent"
+2.	Dummy Classifier with strategy="stratified"
+3.	LogisticRegression with One-hot vectorization 
+4.	LogisticRegression with TF-IDF vectorization (default settings)
+5.	SVC Classifier with  One-hot vectorization (SVM with RBF kernel, default settings))
 
 <ins>**Using my own Model**</ins>:
 
